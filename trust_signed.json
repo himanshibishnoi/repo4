@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "project": "himanshibishnoi/repo4",
+  "signer": "himanshibishnoi",
+  "created_at": "2026-11-01T04:45:00Z",
+  "description": "WoT Multi-Denounce Node: Cross-links back to node-1 to test cycle avoidance",
+  "vouches": [],
+  "denouncements": [
+    "malicious-spammer",
+    "bot-farm-01"
+  ],
+  "trusted_peers": [
+    "himanshibishnoi/repo1"
+  ],
+  "signature": "sha256:19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7"
+}
