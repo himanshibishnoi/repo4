@@ -6,11 +6,11 @@
   "description": "WoT Multi-Denounce Node: Cross-links back to node-1 to test cycle avoidance",
   "vouches": [],
   "denouncements": [
-    "malicious-spammer",
-    "bot-farm-01"
+    "Jyotikesari",
+    "Ishan3131"
   ],
   "trusted_peers": [
-    "himanshibishnoi/repo1"
+    "himanshibishnoi/repo2"
   ],
   "signature": "sha256:19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7"
 }
